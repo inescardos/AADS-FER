@@ -242,7 +242,7 @@ def main():
     count = trie.count_substring_occurrences(test_pattern4)
     print(f"Count of pattern '{test_pattern4}' in '{test_string}':", count)
 
-    # Test LZ78 compression
+    # Test LZ compression
     print("\n=== Testing LZ compression ===")
     trie = PrefixTrie()
 
