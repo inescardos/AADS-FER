@@ -10,6 +10,20 @@ The Project is organized in 4 folders:
 * visualization - contain the code of the visualization interfaces developed with pygame
 
 
+## Prefix Trie Interface
+![image](https://hackmd.io/_uploads/S1CgGpswyl.png)
+![image](https://hackmd.io/_uploads/H1lPzpowJx.png)
+![image](https://hackmd.io/_uploads/r1CSGTjPyl.png)
+![image](https://hackmd.io/_uploads/rkYtMpiw1x.png)
+
+## Suffix Array Interface
+![image](https://hackmd.io/_uploads/Skl2G6jvJx.png)
+![image](https://hackmd.io/_uploads/Sk32z6ivke.png)
+![image](https://hackmd.io/_uploads/ryOpz6jP1g.png)
+![image](https://hackmd.io/_uploads/rJvCM6jDyx.png)
+![image](https://hackmd.io/_uploads/rkAy76sDyg.png)
+
+
 ## Instructions to Run the Code
 
 ### 1. Clone the repository
@@ -66,4 +80,4 @@ To run the experiments for the prefix Trie use the command:
 python -m experiments.prefixTrie.<name of the test file>
 ```
 
-Both commands create a file with the name of the test displaying the results
+Note: Remember to comment the 'print' lines in the structures when running the experiments to maintain a cleaner and more understandable interface
