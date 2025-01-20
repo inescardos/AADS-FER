@@ -65,3 +65,5 @@ To run the experiments for the prefix Trie use the command:
 ```
 python -m experiments.prefixTrie.<name of the test file>
 ```
+
+Both commands create a file with the name of the test displaying the results
