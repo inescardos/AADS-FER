@@ -11,17 +11,18 @@ The Project is organized in 4 folders:
 
 
 ## Prefix Trie Interface
-![image](https://hackmd.io/_uploads/S1CgGpswyl.png)
-![image](https://hackmd.io/_uploads/H1lPzpowJx.png)
-![image](https://hackmd.io/_uploads/r1CSGTjPyl.png)
-![image](https://hackmd.io/_uploads/rkYtMpiw1x.png)
+![image](https://github.com/user-attachments/assets/0038c8ff-a8a5-4947-9d8a-b7f31db27164)
+![image](https://github.com/user-attachments/assets/d820be78-6849-4e71-a60c-c577e3d67ee3)
+![image](https://github.com/user-attachments/assets/1a9ff24f-4947-4ff1-be43-e0ec4e74a14d)
+![image](https://github.com/user-attachments/assets/35b11b95-5548-4924-a4c6-7a19188d837e)
+
 
 ## Suffix Array Interface
-![image](https://hackmd.io/_uploads/Skl2G6jvJx.png)
-![image](https://hackmd.io/_uploads/Sk32z6ivke.png)
-![image](https://hackmd.io/_uploads/ryOpz6jP1g.png)
-![image](https://hackmd.io/_uploads/rJvCM6jDyx.png)
-![image](https://hackmd.io/_uploads/rkAy76sDyg.png)
+![image](https://github.com/user-attachments/assets/1252b2a6-3bff-4ab5-8893-d01021c728b3)
+![image](https://github.com/user-attachments/assets/bfc6f6e8-1398-4b20-b080-67a5b72e3e4c)
+![image](https://github.com/user-attachments/assets/a901ed67-656c-4ff3-8441-c2d85408b939)
+![image](https://github.com/user-attachments/assets/fafbf9dc-0e5d-4dba-8fb9-fae6c5353c8c)
+![image](https://github.com/user-attachments/assets/3b50b8cd-a76a-4ffd-8194-b1465cddaec0)
 
 
 ## Instructions to Run the Code
